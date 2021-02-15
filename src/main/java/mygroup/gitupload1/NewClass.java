@@ -8,5 +8,6 @@ package mygroup.gitupload1;
 
 public class NewClass {
    int mytest = 3;
+   int mytest2 = 3;
    
 }
